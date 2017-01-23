@@ -17,6 +17,19 @@ namespace Inheritance_examples
 
             animal1.PrintAnimalInfo();
             animal2.PrintAnimalInfo();
+
+            //instantiator (cat1 is a Cat object but still has Animal object behind it)
+            Cat cat1 = new Cat("tabby", "short", false, "brown");
+            cat1.PrintAnimalInfo();
+
+
+
+
+
+
+//end static 
         }
+
+       
     }
 }

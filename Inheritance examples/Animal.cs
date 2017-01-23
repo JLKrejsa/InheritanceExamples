@@ -11,9 +11,15 @@ namespace Inheritance_examples
         private int legs;
         private int size;
         private int weight;
-        private string color;
+        protected string color;
 
-        private bool goodToEat;
+        protected bool goodToEat;
+
+        //this is a default constructor without any parameters
+        public Animal()
+        {
+
+        }
 
         public Animal(int legs, string color)
         {
@@ -41,7 +47,7 @@ namespace Inheritance_examples
             Console.WriteLine("This animal has " + legs + " legs");
             Console.WriteLine("It's size is: " + size);
             Console.WriteLine("It weighs " + weight);
-            Console.WriteLine("And its color is  " + color);
+            Console.WriteLine("And its color is " + color);
         }
 
 
