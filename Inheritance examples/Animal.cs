@@ -50,6 +50,11 @@ namespace Inheritance_examples
             Console.WriteLine("And its color is " + color);
         }
 
+        protected void WhoAmI()
+        {
+            Console.WriteLine("I am an animal.");
+        }
+
 
 
 

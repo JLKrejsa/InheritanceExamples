@@ -21,6 +21,11 @@ namespace Inheritance_examples
             //instantiator (cat1 is a Cat object but still has Animal object behind it)
             Cat cat1 = new Cat("tabby", "short", false, "brown");
             cat1.PrintAnimalInfo();
+            cat1.Speak();
+
+            Fish fish1 = new Fish(5, true, true, "salt");
+            fish1.PrintAnimalInfo();
+            fish1.Swim();
 
 
 

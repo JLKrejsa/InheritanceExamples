@@ -25,9 +25,11 @@ namespace Inheritance_examples
             this.color = color;
             this.goodToEat = false;
 
+        }
 
-
-  //end Cat class
+        public void Speak()
+        {
+            Console.WriteLine("Meow!");
         }
 
     }
