@@ -38,10 +38,10 @@ namespace Inheritance_examples
         
         public void PrintAnimalInfo()
         {
-            Console.WriteLine("This animal has " + legs + "number of legs");
+            Console.WriteLine("This animal has " + legs + " legs");
             Console.WriteLine("It's size is: " + size);
             Console.WriteLine("It weighs " + weight);
-            Console.WriteLine("And is the color " + color);
+            Console.WriteLine("And its color is  " + color);
         }
 
 

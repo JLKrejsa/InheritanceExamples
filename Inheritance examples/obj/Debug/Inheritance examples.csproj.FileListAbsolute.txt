@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\Inheritance examples\Inheritance examples\bin\Debug\Inheritance examples.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Inheritance examples\Inheritance examples\bin\Debug\Inheritance examples.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Inheritance examples\Inheritance examples\bin\Debug\Inheritance examples.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Inheritance examples\Inheritance examples\obj\Debug\Inheritance examples.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Inheritance examples\Inheritance examples\obj\Debug\Inheritance examples.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Inheritance examples\Inheritance examples\obj\Debug\Inheritance examples.pdb
